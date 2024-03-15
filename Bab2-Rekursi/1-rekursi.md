@@ -70,7 +70,7 @@ Sepanjang materi, ada beberapa pembahasan mengenai Base Case. Base Case merupaka
 
 Jika penjelasan di atas kurang dapat dimengerti, perhatikan potongan kode di bawah ini.
 
-```c++
+```cpp
 // Potongan 1
 while (true) {
     doSomething();
@@ -111,5 +111,5 @@ Komponen simplifikasi permasalahan pada fungsi rekursif dapat didefinisikan seba
 
 Jika teman-teman mengalami kesulitan dalam memahami materi ini, atau ingin mendapatkan opini/pembawaan lain terhadap materi ini, kami menyarankan beberapa bacaan di bawah
 
-1. [Materi Fungsi Rekursif materi KP 2022](https://github.com/XnoahR/KP2022/blob/main/Bab4-CFunction/4-Rekursi.md)
+1. [Materi Fungsi Rekursif materi KP 2023](https://github.com/AbrahamWillemH/PraktikumKP2023/blob/main/Bab%204-CFunction/4-Rekursi.md)
 2. [Materi _recursion_ GeeksForGeeks](https://www.geeksforgeeks.org/recursion/)

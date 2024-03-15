@@ -1,6 +1,6 @@
 # Tugas Praktikum Rekursi
 
-## Buatlah program dalam bahasa C++ yang menggunakan FUNGSI REKURSIF dan mengimplementasikan STRUKTUR DATA QUEUE seperti berikut:
+## Buatlah program dalam bahasa Java yang menggunakan FUNGSI REKURSIF dan mengimplementasikan STRUKTUR DATA QUEUE seperti berikut:
 
 1. Program menerima user input yang di mana user input ini akan digunakan untuk men-generate deret fibonacci dengan menggunakan **FUNGSI REKURSIF**
    (deret fibonacci akan digenerate hingga bilangan ke n yang di mana n adalah user input tersebut).
