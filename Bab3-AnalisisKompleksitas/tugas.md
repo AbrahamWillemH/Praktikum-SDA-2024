@@ -35,6 +35,7 @@ Untuk setiap bilangan, cetak sebuah baris berisi **YA** apabila bilangan tersebu
 YA
 YA
 YA
+YA
 BUKAN
 // ...
 ```
